@@ -5,4 +5,5 @@ Topics practiced in each week:
 - Week 4 - loops
 - Week 5 - arrays, 2d arrays, nested loops
 - Week 7 - strings, functions
-- Week 8 - recursion
+- Week 8-9 - recursion
+- Week 11 - vectors, sets, maps
