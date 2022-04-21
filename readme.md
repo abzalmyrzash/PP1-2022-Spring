@@ -7,3 +7,5 @@ Topics practiced in each week:
 - Week 7 - strings, functions
 - Week 8-9 - recursion
 - Week 11 - vectors, sets, maps
+- Week 12 - sets, queues, deques
+- Week 13 - algorithms, random number generator
