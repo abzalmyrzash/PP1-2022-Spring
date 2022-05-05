@@ -10,3 +10,4 @@ Topics practiced in each week:
 - Week 12 - sets, queues, deques
 - Week 13 - algorithms, random number generator
 - Week 14 - pointers
+- Week 15 - references, char* (C style string), struct, class
